@@ -29,7 +29,6 @@ AI_ML_Task3/
 │
 ├── outputs/
 │   ├── plots/
-│   └── screenshots/
 │
 ├── reports/
 │   └── task3_eda_report.md
