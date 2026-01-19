@@ -115,22 +115,18 @@ outputs/plots/
 
 ---
 
-#  Files Included
+# 📘 What I Learned
 
-| File / Folder | Description |
-|--------------|-------------|
-| `notebooks/eda.ipynb` | Main EDA notebook |
-| `src/visualizer.py` | Custom reusable plotting module |
-| `data/netflix_titles.csv` | Raw dataset |
-| `outputs/plots/` | Saved graphs |
-| `reports/task3_eda_report.md` | EDA summary report |
-| `README.md` | Project documentation |
+- How to explore and understand real-world datasets using EDA  
+- How to identify patterns, trends, and distributions  
+- How to detect outliers using boxplots  
+- How to analyze categorical data using count plots  
+- How to engineer new features (e.g., title_length)  
+- How to write clear insights for each visualization  
+- How to create reusable modular Python code using a custom visualizer module  
+- How to structure a complete data analysis project with separate folders  
+- How to maintain and upload a clean GitHub repository with notebooks, reports, and outputs  
 
----
 
 
 This project demonstrates **clean analysis, modular coding, and professional documentation** expected in real-world data science.
-
----
-
-# 🎉 End of README
