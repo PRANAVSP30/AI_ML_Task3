@@ -107,7 +107,7 @@ outputs/plots/
 
 ---
 
-# 📘 What I Learned
+# What I Learned
 
 - How to explore and understand real-world datasets using EDA  
 - How to identify patterns, trends, and distributions  
