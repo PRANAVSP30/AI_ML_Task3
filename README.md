@@ -89,25 +89,17 @@ outputs/plots/
 - Netflix has more **Movies** than TV Shows.  
   → Movies dominate the content library.
 
----
-
 ##  2. Ratings Distribution
 - **TV-MA** is the most common rating.  
   → Indicates a large amount of mature content.
-
----
 
 ##  3. Title Length Behavior
 - Most titles fall between **5–20 characters**.  
   → Titles are short, simple, and user-friendly.
 
----
-
 ##  4. Outlier Detection
 - Some titles have unusually long names.  
   → Likely documentaries or special cases.
-
----
 
 ##  5. Correlation Insights
 - No strong correlation between `release_year` and `title_length`.  
